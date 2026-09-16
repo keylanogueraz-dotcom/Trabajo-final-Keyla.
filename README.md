@@ -18,7 +18,7 @@
 * **Propósito General:** Crear un sistema digital estructurado que permita la gestión automatizada y el control de tiempos de Peticiones, Quejas, Reclamos y Sugerencias (PQRS), recibidas en la entidad, el cual se encuentra orientado hacia la optimización de los servicios de atención veterinaria de perros y gatos en la Universidad de Antioquia.
     
 * **Identidad Gráfica:**  
-<img src="images/logo_maxheart.png" alt="Logo Oficial MaxHeart" width="200">
+<img src="images/logo_maxheart.png.png" alt="Logo Oficial MaxHeart" width="200">
 
 ## Actas de Entendimiento, Colaboración y Responsabilidad Individual
 
