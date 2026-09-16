@@ -58,7 +58,7 @@ Este software se registra bajo la licencia oficial **Creative Commons Atribució
   * **RNF2 - Entorno Operacional:** El entorno de ejecución certificado y mandatorio será Google Colab, lo que asegura portabilidad completa en la nube, eludiendo procesos adicionales de instalación, es asi como se esquivan dependencias e instalaciones locales, que figuren como gastos en las memorias de los equipos internos.
 
 ## 7. Plan de Proyecto (Cronograma de Gantt y Presupuesto Profesional)
-* **Cronograma por Semanas (Proyectado a Semana 16 del semestre presente):**
+* **Cronograma por Semanas (Proyectado a 16 Semana del semestre presente):**
   * **Semanas 1-4:** Se sealizó el análisis de las necesidades institucionales, proyecto de aprenidzaje, adopción de conceptos y recolección de variables que permitirian de manera óptima la ejecución del proceso planeado.
   * **Semanas 5-8 (Fase Actual):** Implementación textual, definición y noción de las primeras variables, que permiten dar inicio a un panorama real de la problematica existente; se realiza la estructuración de especificaciones en GitHub Markdown, se implementa el diseño de la identidad de marca MaxHeart y se realiza la primera entrega de planeación escrita como fuente de evaluación para mejoras y reestructuraciones posteriores.
   * **Semanas 9-12:** Se espera dar inicio a la programación modular en Python, además, se estima una aproximación que facilite la  validación de cadenas de texto, que pueda garantizar un manejo seguro de los archivos de texto planos que se requieran en la implementación del software.
