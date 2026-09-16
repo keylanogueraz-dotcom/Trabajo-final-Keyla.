@@ -1,4 +1,4 @@
-# Sistema de Gestión de PQRS "MaxHeart" - Universidad de Antioquia
+# Sistema de Gestión de PQRS "MaxHeart" - Universidad de Antioquia UdeA.
 
 ## 1. Persona a cargo del proyecto:
 * **Nombre Completo:** Keyla Noguera Zambrano
