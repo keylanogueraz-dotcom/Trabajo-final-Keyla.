@@ -2,7 +2,7 @@
 
 ## 1. Persona a cargo del proyecto:
 * **Nombre Completo:** Keyla Noguera Zambrano
-* **Doccumento de identidad:** 1033728378
+* **Documento de identidad:** 1033728378
 * **Docente:** John Heider Davila Davila
 * **Programa Académico:** Ingeniería Industrial  
 * **Facultad:** Facultad de Ingeniería  
