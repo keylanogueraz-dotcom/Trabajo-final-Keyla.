@@ -11,7 +11,7 @@
 ## 2. Vínculos Académicos y Descripción
 * **Perfil Profesional:** Estudiante de Ingeniería Industrial, orientada al análisis de procesos, optimización de recursos y diseño de flujos logísticos aplicados a la industria.  
 * **Habilidades Destacadas:** Compromiso con mi proceso formativo, habilidades de autogestión y aprendizaje continuo, pensamiento analítico, adaptabilidad ante el cambio, capacidad de desarrollo de proyectos individuales y en equipo.  
-* **Fortalezas para el Proyecto:** Compromiso autónomo e individual en cuanto al aprendizaje y desarrollo sistemático del software solicitado y resolución metódica de problemas estructurados mediante lógica computacional, a partir del compromiso de un desarrollo cognitivo adecuado acompañado por las actividades de la materia.
+* **Fortalezas para el Proyecto:** Compromiso autónomo e individual en cuanto al aprendizaje, desarrollo sistemático del software solicitado y resolución metódica de problemas estructurados mediante lógica computacional, a partir del compromiso de un desarrollo cognitivo adecuado, acompañado por las actividades de la materia.
 
 ## 3. Nombre del Proyecto y Detalles Corporativos
 * **Nombre Oficial del Software:** MaxHeart  
