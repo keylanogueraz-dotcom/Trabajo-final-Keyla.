@@ -60,7 +60,7 @@ Este software se registra bajo la licencia oficial **Creative Commons Atribució
 
 ## 7. Plan de Proyecto (Cronograma de Gantt y Presupuesto Profesional)
 * **Cronograma por Semanas (Proyectado a 16 Semana del semestre presente):**
-  * **Semanas 1-4:** Se realizó el análisis de las necesidades institucionales, proyecto de aprenidzaje, adopción de conceptos y recolección de variables que permitirian de manera óptima la ejecución del proceso planeado.
+  * **Semanas 1-4:** Se realizó el análisis de las necesidades institucionales, proyecto de aprendizaje, adopción de conceptos y recolección de variables que permitirian de manera óptima la ejecución del proceso planeado.
   * **Semanas 5-8 (Fase Actual):** Implementación textual, definición y noción de las primeras variables, que permiten dar inicio a un panorama real de la problematica existente; se realiza la estructuración de especificaciones en GitHub Markdown, se implementa el diseño de la identidad de marca MaxHeart y se realiza la primera entrega de planeación escrita como fuente de evaluación para mejoras y reestructuraciones posteriores.
   * **Semanas 9-12:** Se espera dar inicio a la programación modular en Python, además, se estima una aproximación que facilite la  validación de cadenas de texto, que pueda garantizar un manejo seguro de los archivos de texto planos que se requieran en la implementación del software.
   * **Semanas 13-15:** Para tales instantes, se planea el proceso de codificación del motor lógico, los cuales posibilitaran los diversos cálculos requeridos y el ordenamiento secuencial de los estados de PQRS, adicional se espera que la estructura visual del software ya empiece a ser mas realista.
