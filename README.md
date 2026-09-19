@@ -44,7 +44,7 @@ Este software se registra bajo la licencia oficial **Creative Commons Atribució
 * **Descripción General:** MaxHeart es una plataforma digital orientada a optimizar, rastrear y agilizar la recepción y resolución de Peticiones, Quejas, Reclamos y Sugerencias (PQRS) de los usuarios, cuya intención es apoyar la iniciativa de la atención de perros y gatos en el campus universitario. El proyecto se documenta desde la estructura inicial de planeación en Markdown para el sistema en mención.
 * **Objetivo del software y Enfoque Animalista:** En lineación con la vocación social, el bienestar animal y la promulgación de proyectos de alto valor profesional que fomenta la institución, el software busca erradicar el procesamiento de información tardía e ineficiente a papel y lápiz; logrando sistematizar los flujos de datos, reduciendo los tiempos de respuesta operativos, garantizando un control riguroso y una canalización inmediata de los recursos asistenciales que benefician a los perros y gatos en condiciones de vulnerabilidad dentro del campus.
 * **Beneficios Principales:** 
-  * Disminución de los errores humanos al obtener la información y la duplicidad en el registro de radicados.
+  * Disminución de los errores humanos al obtener la información directamente de los usuarios y así se reduce el riesgo de la duplicidad en el registro de radicados, gracias al apoyo sistematizado.
   * Permite el control estricto del ciclo de vida y estado de las PQRS en tiempo real, lo que facilita la toma de decisiones y las acciones a tiempo.
   * Posibilita la generación de alertas predictivas sobre documentos próximos a vencer, pudiendo fijarse en un límite  máximo de 30 días calendario, lo que mejora la gestión.
 
