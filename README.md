@@ -23,7 +23,7 @@
 ## Actas de Entendimiento, Colaboración y Responsabilidad Individual
 
 ### Acta 1: Acta de Entendimiento Individual
-* **Objetivo:** Desarrollar e implementar de manera individual el software "MaxHeart" para la gestión y optimización de PQRS de atención veterinaria en el campus de la Universidad de Antioquia, garantizando rigurosidad en el aprendizaje, gestión e implementación; flexibilidad en los procesos y compromiso en la gestión de las actividades referentes a los conocimientos adquiridos en el avance profesional de Ingeniería Industrial, en particular, de la materia para la cual se desarrolla dicha aactividad.
+* **Objetivo:** Desarrollar e implementar de manera individual el software "MaxHeart" para la gestión y optimización de PQRS de atención veterinaria en el campus de la Universidad de Antioquia, garantizando rigurosidad en el aprendizaje, gestión e implementación; flexibilidad en los procesos y compromiso en la gestión de las actividades referentes a los conocimientos adquiridos en el avance profesional de Ingeniería Industrial, en particular, de la materia para la cual se desarrolla dicha actividad.
 * **Expectativas del Proyecto:** Consolidar un aprendizaje óptimo y autónomo de lógica algorítmica y programación en Python, entregando un producto de software que demuestre las habilidades adquiridas en el entorno de aprendizaje, que sea funcional y además pueda ser documentado, y que logre el objetivo de desarrollo de alto nivel que exige la formación en Ingeniería Industrial de la UdeA.
 
 ### Acta 2: Acta de Colaboración y Compromiso Personal
