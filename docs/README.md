@@ -84,14 +84,14 @@ Este software se registra bajo la licencia oficial **Creative Commons Atribució
 Basada en las observaciones del docente para el parcial se estructura el motor base de captura de datos en la memoria para el sistema **MaxHeart** dentro de Google Colab.
 
 ### Componentes desarrollados:
-* **Estructuración aislada (RNF1):** Inicialización de cuatro diccionarios independientes (`diccionario_peticiones`, "diccionario_quejas", "diccionario_reclamos", "diccionario_sugerencias") para garantizar el almacenamiento ordenado en memoria de cada radicado.
-* **Control de consistencia estética:** Uso de nombres en minúsculas y la aplicación de métodos de limpieza de cadenas (".strip()", ".title()", ".upper()", ".capitalize()", ".lower()"). El comprobante de radicación se diseñó en un formato ASCII simétrico de 100 caracteres de ancho fijo ("<33", "<35") ordenados por contextos (Datos del ciudadano, independientes de los datos de las mascotas).
+* **Estructuración aislada (RNF1):** Inicialización de cuatro diccionarios independientes (`diccionario_peticiones`, `diccionario_quejas`, `diccionario_reclamos`, `diccionario_sugerencias`) para garantizar el almacenamiento ordenado en memoria de cada radicado.
+* **Control de consistencia estética:** Uso de nombres en minúsculas y la aplicación de métodos de limpieza de cadenas (`.strip()`, `.title()`, `.upper()`, `.capitalize()`, `.lower()`). El comprobante de radicación se diseñó en un formato ASCII simétrico de 100 caracteres de ancho fijo (`<33`, `<35`) ordenados por contextos (Datos del ciudadano, independientes de los datos de las mascotas).
 * **Cumplimiento de Requisitos Funcionales (RF):**
-* **RF1 - Validación institucional:** Control estricto de correo electrónico institucional mediante estructuras condicionales lineales "if-else" combinadas con operaciones de cadena (".count("@") == 1" y ".endswith("@udea.edu.co")"), restringiendo el acceso a usuarios no certificados.
+* **RF1 - Validación institucional:** Control estricto de correo electrónico institucional mediante estructuras condicionales lineales `if-else` combinadas con operaciones de cadena (`.count(`@`) == 1` y `.endswith(`@udea.edu.co`)`), restringiendo el acceso a usuarios no certificados.
 * **RF2 - Consecutivo Único:** Se implementa un contador numérico entero auto-incremental inalterable.
-* **RF3 - Tipificación de Especie:** Se restringen los datos a las categorias válidas ("Perro" / "Gato") por medio de la estandarización forzada de entradas.
-* **RF4 - Tiempos Extremos:** Se integra la librería "datetime" para calcular y formatear matemática y automaticamente la fecha límite exacta sumando 30 días calendario al registro.
-* **Procesamiento Analítico de Datos:** Se diseñan sentencias de *Comprensión de listas* de recorrido global para escanear en paralelo los valores de los cuatro diccionarios ("list().values()") y se segmenta de forma compacta y simultánea las solicitudes de caninos y felinos activos, extrayendo el nombre del ciudadano (posición "[0]") al evaluar las casillas de la especie (posición "[8]").
+* **RF3 - Tipificación de Especie:** Se restringen los datos a las categorias válidas (`Perro` / `Gato`) por medio de la estandarización forzada de entradas.
+* **RF4 - Tiempos Extremos:** Se integra la librería `datetime` para calcular y formatear matemática y automaticamente la fecha límite exacta sumando 30 días calendario al registro.
+* **Procesamiento Analítico de Datos:** Se diseñan sentencias de *Comprensión de listas* de recorrido global para escanear en paralelo los valores de los cuatro diccionarios (`list().values()`) y se segmenta de forma compacta y simultánea las solicitudes de caninos y felinos activos, extrayendo el nombre del ciudadano (posición `[0]`) al evaluar las casillas de la especie (posición `[8]`).
 
 El presente avance queda registrado en el historial de Github, como evidencia de la evolución cognitiva y el desarrollo sistemático e individual del software.    
 
